@@ -10,3 +10,4 @@ Utilizes
 - Collision-based trigger (object pickup)
  
   
+![Gameplay shot] (https://github.com/Nashluffy/UnityBallGame/blob/master/gameplay.png)
